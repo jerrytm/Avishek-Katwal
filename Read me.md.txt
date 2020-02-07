@@ -1,0 +1,14 @@
+i have finished creating the game.It's just simple but i can do more.i"ve used the assets from GitHub.if i didn't had those i can create 
+them myself.
+
+
+About the game.
+There is only a ball that spawns randomly and the snake dies if you touch the wall .i've added 
+rigidbody to the snake and ticked the trigger.i've also used the Get Axis to move the player .
+Created a UI for the score board and coded it so it can actually tell the score.
+Added bombs too so when the snake touches it it'll die. and that's that i think.
+
+
+link to the gameplay video-   https://drive.google.com/file/d/1TSlr7e6G6T0GKLbqq9GOLRPDgtampuiQ/view?usp=sharing
+
+i've made many more games if you wanna check it out i'll send the link.
